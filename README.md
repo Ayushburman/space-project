@@ -31,3 +31,6 @@ alien_conversation()
 
 #@1276377_Recieved
 ### Estimate Time : 45 Hours
+
+--------------------------------
+scan done - Oscillator working
