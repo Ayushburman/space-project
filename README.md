@@ -25,6 +25,32 @@ def alien_conversation():
 ```
 
 # Start Mission
-alien_conversation()
+alien_conversation_end()
+------------------------------------
+```
+#include <stdio.h>
+
+int main() {
+    float x1,y1,z1,x2,y2,z2;
+
+    printf("Traveller A send coordinates (x y z): ");
+    scanf("%f %f %f",&x1,&y1,&z1);
+
+    printf("Traveller B receives: (%.1f, %.1f, %.1f)\n",x1,y1,z1);
+    printf("Traveller B: Signal received. Sending mine...\n");
+
+    printf("Traveller B send coordinates (x y z): ");
+    scanf("%f %f %f",&x2,&y2,&z2);
+
+    printf("Traveller A receives: (%.1f, %.1f, %.1f)\n",x2,y2,z2);
+    printf("Traveller A: Coordinates locked. See you soon.\n");
+
+    return 0;
+}
+
+```
+
+
+
 
 
