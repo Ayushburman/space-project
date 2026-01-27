@@ -27,12 +27,4 @@ def alien_conversation():
 # Start Mission
 alien_conversation()
 
-### Recieved 
-
-#@1276377_Recieved
-### Estimate Time : 45 Hours
-
---------------------------------
-scan done - Oscillator working
-battery left 2/3 space craft 
 
