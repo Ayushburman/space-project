@@ -50,9 +50,8 @@ int main() {
 
 ```
 
-## recievers coordinates - 23-kj-56-85
-## recievers spacecraft - VKS-SHIP-500005
+### recievers coordinates - 23-kj-56-85
+### recievers spacecraft - VKS-SHIP-500005
 
 -------------------------------------------------
-
-
+# Find: NEBULA-X PHANTOM [Lost Space Craft]
