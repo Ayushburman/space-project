@@ -81,3 +81,11 @@ slow_print(f"{traveller1}: The legendary lost spacecraft.")
 slow_print(f"{traveller2}: If we find it, we can reuse its energy core.")
 
 time.sleep(1)
+
+
+slow_print("\n🚀 Mission Briefing:")
+slow_print(f"Target: {lost_ship}")
+slow_print("Location: Dark Void Sector-9")
+slow_print("Objective: Recover usable resources\n")
+
+time.sleep(1)
