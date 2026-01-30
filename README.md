@@ -101,3 +101,13 @@ slow_print(f"{traveller2}: Maneuvering through debris!")
 slow_print(f"{traveller1}: Shields at maximum!")
 
 time.sleep(2)
+
+
+# Discovery
+slow_print("\n🔍 Scanning Area...")
+time.sleep(2)
+
+slow_print(f"Signal Found: {lost_ship}")
+slow_print("Approaching slowly...\n")
+
+time.sleep(2)
