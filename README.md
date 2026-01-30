@@ -1,8 +1,8 @@
-### I am AJ91733 from planet : Awus
+### I am AJ91733 from planet : AWUS
 ### MY Co-ord: 1786-2345-263 
 
 Code:
-# 🚀 Space Mission: Alien Contact Program 👽
+#   EXTRATERRESTRIAL Contact Program 
 ```
 def alien_conversation():
     Traveller1 = "ZORATHRON"
