@@ -122,3 +122,7 @@ slow_print("\n🛠 Resource Recovery Started...")
 time.sleep(2)
 
 resources = ["Energy Cells", "Quantum Fuel", "AI Navigation Chip", "Plasma Shield"]
+
+for item in resources:
+    slow_print(f"✔ Collected: {item}")
+    time.sleep(0.5)
