@@ -65,3 +65,13 @@ def slow_print(text, delay=0.04):
         print(char, end='', flush=True)
         time.sleep(delay)
     print()
+# Characters
+traveller1 = "ZORATHRON"
+traveller2 = "LUMIUS"
+
+# Lost spacecraft
+lost_ship = "NEBULA-X PHANTOM"
+
+# Mission Start
+slow_print("🌠 Initializing Space Transmission...\n")
+time.sleep(1)
