@@ -126,3 +126,13 @@ resources = ["Energy Cells", "Quantum Fuel", "AI Navigation Chip", "Plasma Shiel
 for item in resources:
     slow_print(f"✔ Collected: {item}")
     time.sleep(0.5)
+
+# Mission End
+slow_print("\n✅ Mission Successful!")
+slow_print("All critical resources recovered.")
+
+slow_print(f"\n{traveller2}: We did it, ZORATHRON.")
+slow_print(f"{traveller1}: Another legend written in the stars.")
+
+slow_print("\n🌟 Returning to Base...")
+slow_print("=== END OF MISSION ===")
