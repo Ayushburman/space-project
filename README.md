@@ -13,8 +13,8 @@ def alien_conversation():
     print(Traveller1 , ": Hello? Is anyone out there?")
     print(Traveller2 , ": Yes! I hear you. Who are you?")
 
-    print(Traveller1 , ": I am", alien1, "from Planet Orion.")
-    print(Traveller2 , ": Wow! I'm", alien2, "from Planet Nova.")
+    print(Traveller1 , ": I am", ZORATHRON, "from Planet Orion.")
+    print(Traveller2 , ": Wow! I'm", LUMIAS, "from Planet Nova.")
 
     print("\n Scanning Life Forms... Complete!")
 
