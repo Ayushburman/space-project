@@ -55,3 +55,13 @@ int main() {
 
 -------------------------------------------------
 # Find: NEBULA-X PHANTOM [Lost Space Craft]
+
+```
+import time
+
+def slow_print(text, delay=0.04):
+    """Print text slowly for dramatic effect"""
+    for char in text:
+        print(char, end='', flush=True)
+        time.sleep(delay)
+    print()
