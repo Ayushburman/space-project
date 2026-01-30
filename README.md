@@ -104,10 +104,21 @@ time.sleep(2)
 
 
 # Discovery
-slow_print("\n🔍 Scanning Area...")
+slow_print("\n Scanning Area...")
 time.sleep(2)
 
 slow_print(f"Signal Found: {lost_ship}")
 slow_print("Approaching slowly...\n")
 
 time.sleep(2)
+
+# Exploration
+slow_print(f"{traveller1}: There it is... damaged but intact.")
+slow_print(f"{traveller2}: Power core is still active!")
+
+time.sleep(1)
+
+slow_print("\n🛠 Resource Recovery Started...")
+time.sleep(2)
+
+resources = ["Energy Cells", "Quantum Fuel", "AI Navigation Chip", "Plasma Shield"]
