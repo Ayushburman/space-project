@@ -75,3 +75,9 @@ lost_ship = "NEBULA-X PHANTOM"
 # Mission Start
 slow_print("🌠 Initializing Space Transmission...\n")
 time.sleep(1)
+slow_print(f"{traveller1}: Do you see that signal, LUMIUS?")
+slow_print(f"{traveller2}: Yes... It's coming from {lost_ship}.")
+slow_print(f"{traveller1}: The legendary lost spacecraft.")
+slow_print(f"{traveller2}: If we find it, we can reuse its energy core.")
+
+time.sleep(1)
